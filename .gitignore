@@ -1,3 +1,6 @@
+.DS_Store
+.idea
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
@@ -115,4 +118,3 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .pnp.*
-
